@@ -1,0 +1,25 @@
+body {
+    margin: 5%;
+    background-color: #bfddff;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+p {
+    color: #46484c;
+}
+
+button {
+    color: #fff;
+    background-color: #000000;
+    margin: 5px;
+}
+
+input{
+    padding: 5px;
+    margin: 5px;
+}
+
